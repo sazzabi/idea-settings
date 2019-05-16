@@ -11,8 +11,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
