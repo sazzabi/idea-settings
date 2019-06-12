@@ -13,7 +13,7 @@
     <mask>*.rb</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.xliff</mask>
+    <mask>*.php</mask>
   </component>
 </application>
