@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
