@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="dd" value="dump($END$);&#10;die();" description="'dump' statement" toReformat="true" toShortenFQNames="true" />
+</templateSet>
