@@ -1,3 +1,7 @@
 <templateSet group="PHP">
-  <template name="dd" value="dump($END$);&#10;die();" description="'dump' statement" toReformat="true" toShortenFQNames="true" />
+  <template name="dd" value="dump($END$);&#10;die();" description="'dump' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
