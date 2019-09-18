@@ -6,6 +6,8 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+      <removed_mapping pattern=".yml.dist" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
