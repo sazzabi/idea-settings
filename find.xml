@@ -18,5 +18,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.fr.xlf</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
