@@ -19,5 +19,6 @@
     <mask>*.fr.xlf</mask>
     <mask>*.xlf</mask>
     <mask>*.yml</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
