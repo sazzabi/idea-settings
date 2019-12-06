@@ -16,9 +16,9 @@
     <mask>*.scss</mask>
     <mask>*.fr.xlf</mask>
     <mask>*.xlf</mask>
-    <mask>*.yml</mask>
     <mask>*.sh</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
