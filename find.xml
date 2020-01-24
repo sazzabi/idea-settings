@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,10 +16,10 @@
     <mask>*.xliff</mask>
     <mask>*.scss</mask>
     <mask>*.fr.xlf</mask>
-    <mask>*.xlf</mask>
     <mask>*.sh</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
