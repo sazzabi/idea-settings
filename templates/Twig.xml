@@ -1,0 +1,8 @@
+<templateSet group="Twig">
+  <template name="asset" value="{{ asset('$SELECTION$') }}" description="asset" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
