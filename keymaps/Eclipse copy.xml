@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
+  <action id="GotoFile" />
   <action id="IncrementWindowHeight" />
   <action id="MethodDown" />
   <action id="ReformatCode">
@@ -26,6 +27,9 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="RunToCursor" />
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
