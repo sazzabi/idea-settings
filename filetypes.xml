@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="webpack" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
